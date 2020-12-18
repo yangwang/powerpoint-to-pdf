@@ -1,3 +1,7 @@
+# TODO
+- ppt to pptx
+- package to exe
+
 # PowerPoint to PDF
 
 A set of Python scripts to convert PowerPoint (PPT/PPTX) files to Adobe PDF
